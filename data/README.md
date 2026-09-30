@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[eCommerce Events History in Cosmetics Shop]` |
-| Sumber | `[https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop]` |
+| Nama dataset | `eCommerce Events History in Cosmetics Shop` |
+| Sumber | `https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop` |
 | Lisensi/ketentuan pakai | `Open Data (CC0: Public Domain)` |
-| Ukuran | `[~4.63 Juta baris / ~1.05 GB CSV (~150 MB Parquet Snappy)]` |
-| Periode data | `[1 November 2019 – 30 November 2019]` |
-| Unit analisis | `[Per peristiwa interaksi pengguna (*user interaction event*: `view`, `cart`, `remove_from_cart`, `purchase`)]` |
+| Ukuran | `~4.63 Juta baris / ~1.05 GB CSV (~150 MB Parquet Snappy)` |
+| Periode data | `1 November 2019 – 30 November 2019` |
+| Unit analisis | `Per peristiwa interaksi pengguna (*user interaction event*: `view`, `cart`, `remove_from_cart`, `purchase`)` |
 
 ## Tempat Mencari Dataset
 
