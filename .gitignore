@@ -26,4 +26,10 @@ output/*.json
 
 # Sistem operasi dan editor
 .DS_Store
-.vscode/
+.vscode/*.parquet
+*.csv
+*.zip
+
+*.parquet
+*.csv
+*.zip
