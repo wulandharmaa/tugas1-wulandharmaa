@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `eCommerce Events History in Cosmetics Shop` |
-| Sumber | `https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop` |
-| Lisensi/ketentuan pakai | `Open Data (CC0: Public Domain)` |
-| Ukuran | `~4.63 Juta baris / ~1.05 GB CSV (~150 MB Parquet Snappy)` |
-| Periode data | `1 November 2019 – 30 November 2019` |
-| Unit analisis | `Per peristiwa interaksi pengguna (*user interaction event*: `view`, `cart`, `remove_from_cart`, `purchase`)` |
+| Nama dataset | `IGED (Indonesian General Election Dataset)` |
+| Sumber | `https://huggingface.co/datasets/syauqie/IGED` |
+| Lisensi/ketentuan pakai | `Open Access (Hugging Face)` |
+| Ukuran | `1,34 Juta baris / ~448 MB CSV (~150 MB Parquet Snappy)` |
+| Periode data | `Sesuai waktu pengumpulan data (Masa Pemilu Indonesia)` |
+| Unit analisis | `Per baris teks/dokumen (misal: per tweet/komentar)` |
 
 ## Tempat Mencari Dataset
 
