@@ -1,3 +1,5 @@
+# Tugas 1: Eksplorasi dan Analisis Dataset Besar Indonesia
+
 Template untuk Tugas 1 mata kuliah Analisis Big Data. Setelah repository GitHub Classroom dibuat, ubah nama repository menjadi `tugas1-[username_github]`.
 
 ## Milestone
@@ -226,10 +228,8 @@ Buka JupyterLab pada `http://localhost:8888/lab`. Konfigurasi Dockerfile menjala
 ## AI Disclosure Statement
 
 Isi bagian ini sebelum pengumpulan akhir.
-
 > Alat AI yang digunakan: Claude (Anthropic) dan Gemini (Google).
 >
 > Bagian yang dibantu: membantu menyusun kerangka kode analisis dan visualisasi, merumuskan draf insight, serta memperbaiki error pada kode (misalnya error pembacaan file parquet dan tampilan output tabel) beserta langkah-langkah penyelesaiannya.
 >
 > Verifikasi yang dilakukan: membaca penjelasan penyebab error pada kode, mencoba saran perbaikan, menjalankan ulang seluruh sel secara berurutan, dan memeriksa bahwa angka pada insight sesuai dengan output di notebook.
-
