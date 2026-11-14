@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/802ddc49-be06-43e4-bd13-ebb2f9b8559e" /># Tugas 1: Eksplorasi dan Analisis Dataset Besar Indonesia
-
 Template untuk Tugas 1 mata kuliah Analisis Big Data. Setelah repository GitHub Classroom dibuat, ubah nama repository menjadi `tugas1-[username_github]`.
 
 ## Milestone
