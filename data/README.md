@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `IGED (Indonesian General Election Dataset)` |
-| Sumber | `https://huggingface.co/datasets/syauqie/IGED` |
-| Lisensi/ketentuan pakai | `Open Access (Hugging Face)` |
-| Ukuran | `1,34 Juta baris / ~448 MB CSV (~150 MB Parquet Snappy)` |
-| Periode data | `Sesuai waktu pengumpulan data (Masa Pemilu Indonesia)` |
-| Unit analisis | `Per baris teks/dokumen (misal: per tweet/komentar)` |
+| Nama dataset | `Indonesia Stock Exchange (IDX) Stocks, ETF & Index (stocks.csv)` |
+| Sumber | `https://www.kaggle.com/datasets/bestagi/indonesia-stock-marketidx-price-data?select=stocks.csv` |
+| Lisensi/ketentuan pakai | `Public Dataset / Open Access (Kaggle)` |
+| Ukuran | `1,75+ Juta baris (file utama stocks.csv)` |
+| Periode data | `9 Mei 1990 – 4 Juli 2025 (Data historis harian)` |
+| Unit analisis | `Per baris perdagangan harian per kode saham/emiten (Date × Ticker: Open, High, Low, Close, Volume)` |
 
 ## Tempat Mencari Dataset
 
